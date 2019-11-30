@@ -5,7 +5,7 @@ namespace PHPSTORM_META {
 
    /**
     * PhpStorm Meta file, to provide autocomplete information for PhpStorm
-    * Generated on 2019-11-11 01:32:59.
+    * Generated on 2019-11-14 18:27:18.
     *
     * @author Barry vd. Heuvel <barryvdh@gmail.com>
     * @see https://github.com/barryvdh/laravel-ide-helper
@@ -45,6 +45,7 @@ namespace PHPSTORM_META {
         'auth.password' => \Illuminate\Auth\Passwords\PasswordBrokerManager::class,
         'auth.password.broker' => \Illuminate\Auth\Passwords\PasswordBroker::class,
         'blade.compiler' => \Illuminate\View\Compilers\BladeCompiler::class,
+        'botman' => \BotMan\BotMan\BotMan::class,
         'cache' => \Illuminate\Cache\CacheManager::class,
         'cache.store' => \Illuminate\Cache\Repository::class,
         'command.auth.resets.clear' => \Illuminate\Auth\Console\ClearResetsCommand::class,
@@ -201,6 +202,7 @@ namespace PHPSTORM_META {
         'auth.password' => \Illuminate\Auth\Passwords\PasswordBrokerManager::class,
         'auth.password.broker' => \Illuminate\Auth\Passwords\PasswordBroker::class,
         'blade.compiler' => \Illuminate\View\Compilers\BladeCompiler::class,
+        'botman' => \BotMan\BotMan\BotMan::class,
         'cache' => \Illuminate\Cache\CacheManager::class,
         'cache.store' => \Illuminate\Cache\Repository::class,
         'command.auth.resets.clear' => \Illuminate\Auth\Console\ClearResetsCommand::class,
@@ -357,6 +359,7 @@ namespace PHPSTORM_META {
         'auth.password' => \Illuminate\Auth\Passwords\PasswordBrokerManager::class,
         'auth.password.broker' => \Illuminate\Auth\Passwords\PasswordBroker::class,
         'blade.compiler' => \Illuminate\View\Compilers\BladeCompiler::class,
+        'botman' => \BotMan\BotMan\BotMan::class,
         'cache' => \Illuminate\Cache\CacheManager::class,
         'cache.store' => \Illuminate\Cache\Repository::class,
         'command.auth.resets.clear' => \Illuminate\Auth\Console\ClearResetsCommand::class,
@@ -513,6 +516,7 @@ namespace PHPSTORM_META {
         'auth.password' => \Illuminate\Auth\Passwords\PasswordBrokerManager::class,
         'auth.password.broker' => \Illuminate\Auth\Passwords\PasswordBroker::class,
         'blade.compiler' => \Illuminate\View\Compilers\BladeCompiler::class,
+        'botman' => \BotMan\BotMan\BotMan::class,
         'cache' => \Illuminate\Cache\CacheManager::class,
         'cache.store' => \Illuminate\Cache\Repository::class,
         'command.auth.resets.clear' => \Illuminate\Auth\Console\ClearResetsCommand::class,
@@ -669,6 +673,7 @@ namespace PHPSTORM_META {
         'auth.password' => \Illuminate\Auth\Passwords\PasswordBrokerManager::class,
         'auth.password.broker' => \Illuminate\Auth\Passwords\PasswordBroker::class,
         'blade.compiler' => \Illuminate\View\Compilers\BladeCompiler::class,
+        'botman' => \BotMan\BotMan\BotMan::class,
         'cache' => \Illuminate\Cache\CacheManager::class,
         'cache.store' => \Illuminate\Cache\Repository::class,
         'command.auth.resets.clear' => \Illuminate\Auth\Console\ClearResetsCommand::class,
@@ -825,6 +830,7 @@ namespace PHPSTORM_META {
         'auth.password' => \Illuminate\Auth\Passwords\PasswordBrokerManager::class,
         'auth.password.broker' => \Illuminate\Auth\Passwords\PasswordBroker::class,
         'blade.compiler' => \Illuminate\View\Compilers\BladeCompiler::class,
+        'botman' => \BotMan\BotMan\BotMan::class,
         'cache' => \Illuminate\Cache\CacheManager::class,
         'cache.store' => \Illuminate\Cache\Repository::class,
         'command.auth.resets.clear' => \Illuminate\Auth\Console\ClearResetsCommand::class,
@@ -981,6 +987,7 @@ namespace PHPSTORM_META {
         'auth.password' => \Illuminate\Auth\Passwords\PasswordBrokerManager::class,
         'auth.password.broker' => \Illuminate\Auth\Passwords\PasswordBroker::class,
         'blade.compiler' => \Illuminate\View\Compilers\BladeCompiler::class,
+        'botman' => \BotMan\BotMan\BotMan::class,
         'cache' => \Illuminate\Cache\CacheManager::class,
         'cache.store' => \Illuminate\Cache\Repository::class,
         'command.auth.resets.clear' => \Illuminate\Auth\Console\ClearResetsCommand::class,
@@ -1137,6 +1144,7 @@ namespace PHPSTORM_META {
         'auth.password' => \Illuminate\Auth\Passwords\PasswordBrokerManager::class,
         'auth.password.broker' => \Illuminate\Auth\Passwords\PasswordBroker::class,
         'blade.compiler' => \Illuminate\View\Compilers\BladeCompiler::class,
+        'botman' => \BotMan\BotMan\BotMan::class,
         'cache' => \Illuminate\Cache\CacheManager::class,
         'cache.store' => \Illuminate\Cache\Repository::class,
         'command.auth.resets.clear' => \Illuminate\Auth\Console\ClearResetsCommand::class,

@@ -224,6 +224,14 @@
 <!-- App js -->
 <script src="{{asset('backend/assets/js/app.js')}}"></script>
 
+
+<script>
+    var botmanWidget = {
+        frameEndpoint: '/api/conversation'
+    };
+</script>
+<script src='https://cdn.jsdelivr.net/npm/botman-web-widget@0/build/js/widget.js'></script>
+
 @stack('extra-js')
 
 </body>
